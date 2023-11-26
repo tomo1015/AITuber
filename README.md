@@ -1,0 +1,2 @@
+# AITuber
+AITuberの本のテストプロジェクト
